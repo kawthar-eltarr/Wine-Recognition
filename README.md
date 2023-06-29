@@ -1,4 +1,4 @@
-# Wine Recognition
+# Wine Recognition with Multilayer Perceptron
 
 To achieve Multiple label classification using Multilayer Perceptron, you can either use Categorical Cross Entropy or Sparse Categorical Cross Entropy as loss functions, both suitable for multi-class classification problems.
 
